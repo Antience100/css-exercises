@@ -1,0 +1,9 @@
+.odd-number {
+    background-color: rgb(207, 13, 62);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#second-number {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
